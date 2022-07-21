@@ -20,4 +20,13 @@
 
 **Link(s) to work**
 1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
+  
 
+### Day 3: 7/21 Wednesday
+
+**Today's Progress**: LinkedIn Learning Course, practiced writing objects with methods and testing them.
+
+**Thoughts** Methods confused me-now I know that they are just functions in an object.  
+
+**Link(s) to work**
+1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
