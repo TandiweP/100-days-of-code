@@ -30,3 +30,12 @@
 
 **Link(s) to work**
 1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
+  
+### Day 4: 7/22 Thursday
+
+**Today's Progress**: LinkedIn Learning Course-Object Classes, FreeCodeCamp Objects
+
+**Thoughts** Will research today how to write Classes with nested parameters. 
+
+**Link(s) to work**
+1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
