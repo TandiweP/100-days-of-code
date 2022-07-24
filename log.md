@@ -50,7 +50,7 @@
 1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
 
 
-### Day 5: 7/23 Saturday
+### Day 6: 7/23 Saturday
 **Today's Progress**: LinkedIn Learning Course-Object Classes and Constructors: practiced making Classes, importing them as modules, manipulating data, and writing data to html
 
 **Thoughts** Writing object properties to specific html tags is harder than I thought: I ended up just displaying the whole object in normal (ugly) formatting.  I won't stress about it now-it will probably come up later.  I also can see if I can adapt something else that I do know to work with this. 
