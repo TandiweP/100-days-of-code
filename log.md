@@ -57,3 +57,10 @@
 
 **Link(s) to work**
 1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
+  
+### Day 7: 7/24 Sunday
+**Today's Progress**: Studied objects and constructors in "Javascript For Kids" by Nick Morgan
+
+**Thoughts** Good book, but I wish it had Object Classes included, but they are quite new
+
+
