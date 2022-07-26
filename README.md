@@ -2,7 +2,7 @@
 
 ## MyRules:
 
-* I am working every day, but I will only tweet weekly - because that seems like an ANNOYING daily tweet
+* I am working every day, but I will only tweet every ten days - because that seems like an ANNOYING daily tweet
 * I am happy to communicate or collaborate with anyone interested in my projects
 * My first goal is to review the basics, so no big projects quite yet. 
 * Thanks to the creators of #100DaysOfCode, and I apologize for breaking most of the rules to fit my needs. 
