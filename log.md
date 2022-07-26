@@ -62,5 +62,10 @@
 **Today's Progress**: Studied objects and constructors in "Javascript For Kids" by Nick Morgan
 
 **Thoughts** Good book, but I wish it had Object Classes included, but they are quite new
+  
+### Day 8: 7/24 Monay
+**Today's Progress**: Completed challenge in the Objects section of the LinkedIn JS course.  Also did a bit of microsoft training. 
+
+**Thoughts** This is a good course, especially combined with the JS For Kids book. The book gave me a little extra help with methods. 
 
 
