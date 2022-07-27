@@ -63,9 +63,12 @@
 
 **Thoughts** Good book, but I wish it had Object Classes included, but they are quite new
   
-### Day 8: 7/25 Monay
+### Day 8: 7/25 Monday
 **Today's Progress**: Completed challenge in the Objects section of the LinkedIn JS course.  Also did a bit of microsoft training. 
 
 **Thoughts** This is a good course, especially combined with the JS For Kids book. The book gave me a little extra help with methods. 
 
+### Day 9: 7/26 Tuesday
+**Today's Progress**: Practiced OOP, completed P section of course, planned out a practice app (animals making thier sounds)
 
+**Thoughts** I'm excited to write my first OOP. I'm looking into how I want to do the images of the animals.
