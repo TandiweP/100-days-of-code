@@ -72,3 +72,8 @@
 **Today's Progress**: Practiced OOP, completed P section of course, planned out a practice app (animals making thier sounds)
 
 **Thoughts** I'm excited to write my first OOP. I'm looking into how I want to do the images of the animals.
+ 
+### Day 10: 7/27 Wednesday
+**Today's Progress**: Got sucked into a rabbit hole researching and comparing apps.  Reviewed some practice code. Most of what I did today was really interview prep. 
+
+**Thoughts** I didn't get to actually code today, but there was a lot of studying and research. 
