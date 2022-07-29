@@ -77,12 +77,20 @@
 **Today's Progress**: Got sucked into a rabbit hole researching and comparing apps.  Reviewed some practice code. Most of what I did today was really interview prep. 
 
 **Thoughts** I didn't get to actually code today, but there was a lot of studying and research. 
-----------------------------------------------------------------------------------------------------------------------------
+
 
 ### Day 11: 7/28 Thursday
 **Today's Progress**: Started writing out my code for the Animal Sound OOP that I mapped out on Tuesday, practiced interacting with the DOM. 
 
 **Thoughts** This project will be fun.  
+
+**Link(s) to work**
+1. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)
+  
+### Day 12: 7/29 Friday
+**Today's Progress**: Added Boostrap CDN to my Animal Sound Repo and modified existing DOM management to fit those tags.  
+
+**Thoughts** I'm traveling so I will listen to "CodeNewbie" and my developer audiobook.  I'm hoping to get time to work tonight so I may update it then. 
 
 **Link(s) to work**
 1. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)
