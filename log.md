@@ -77,3 +77,12 @@
 **Today's Progress**: Got sucked into a rabbit hole researching and comparing apps.  Reviewed some practice code. Most of what I did today was really interview prep. 
 
 **Thoughts** I didn't get to actually code today, but there was a lot of studying and research. 
+----------------------------------------------------------------------------------------------------------------------------
+
+### Day 11: 7/28 Thursday
+**Today's Progress**: Started writing out my code for the Animal Sound OOP that I mapped out on Tuesday, practiced interacting with the DOM. 
+
+**Thoughts** This project will be fun.  
+
+**Link(s) to work**
+1. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)
