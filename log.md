@@ -94,3 +94,13 @@
 
 **Link(s) to work**
 1. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)
+
+### Day 13: 7/30 Saturday
+**Today's Progress**: Due to traveling all day, I focused on researching different types of pipelines and reviewed OOP via online articles. I also saved someone's life, btw.  
+
+**Thoughts** Researching on the go is doable, but it does not compare to actually coding. 
+
+  
+### Day 14: 7/31 Sunday
+**Today's Progress**: I studied today and reviewed my LinkedIn.  I don't code on Sundays unless I have to.  
+
