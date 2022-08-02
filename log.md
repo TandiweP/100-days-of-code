@@ -104,3 +104,7 @@
 ### Day 14: 7/31 Sunday
 **Today's Progress**: I studied today and reviewed my LinkedIn.  I don't code on Sundays unless I have to.  
 
+### Day 15: 8/1 Monday
+**Today's Progress**: Interview prep, starting a new approach to algorithms. 
+
+**Thoughts** I registered for HackerRank today.  
