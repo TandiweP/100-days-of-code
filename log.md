@@ -112,7 +112,7 @@
 ### Day 16: 8/2 Tuesday
 **Today's Progress**: Interviewed via zoom, reviewed portfolio and made list of changes, started changing "SpeakSpeare", added a new object to "Animal Sounds", and completed a HackerRank challenge.   
 
-**Thoughts** Interview went well, but reminded me of some serious refinement I need to do with a couple of portfolio projects. 
+**Thoughts** I am enjoying OOP and algorithms.  
 
 **Link(s) to work**
 1. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)  
