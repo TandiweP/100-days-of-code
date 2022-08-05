@@ -118,9 +118,12 @@
 1. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)  
 2. [HackerRank](https://www.hackerrank.com)  
   
- ### Day 17: 8/3 Tuesday
+ ### Day 17: 8/3 Wednesday
 **Today's Progress**: Worked on re-structuring "SpeakSpeare", reading articles, studying algorithms.   
 
 **Thoughts** I really don't like my css setup for "SpeakSpeare"  
 
+ ### Day 18: 8/4 Thursday
+**Today's Progress**: SpeakSpeare re-styling, intense algorithm study.   
 
+**Thoughts** Big O! And I think I'll just redo SpeakSpeare - don't like the way it is set up. 
