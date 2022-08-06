@@ -127,3 +127,11 @@
 **Today's Progress**: SpeakSpeare re-styling, intense algorithm study.   
 
 **Thoughts** Big O! And I think I'll just redo SpeakSpeare - don't like the way it is set up. 
+
+### Day 19: 8/5 Friday
+**Today's Progress**: LinkedIn JS course: DOM manipulation, specifically querySelector practice.  Also started a new algorith course. 
+
+**Thoughts** It's good to brush up on the DOM-it's easy to forget how the syntax for selectors work.  It's also nice that I can do it easily in the chrome browser. 
+
+**Link(s) to work**
+1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
