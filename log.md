@@ -135,3 +135,11 @@
 
 **Link(s) to work**
 1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
+  
+ ### Day 20: 8/6 Saturday
+**Today's Progress**: querySelector and querySelectorAll practice.  Also doing them algorithms
+
+**Thoughts** This log is kinda mundane and annoying...
+  
+**Link(s) to work**
+1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
