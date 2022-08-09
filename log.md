@@ -143,3 +143,14 @@
   
 **Link(s) to work**
 1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
+
+ ### Day 21: 8/7 Sunday
+**Today's Progress**: Read "Algorithmic Programming" from No Starch Press
+  
+  
+### Day 22: 8/8 Monday
+**Today's Progress**: JS course, Did the MarkDown Tutorial, Started refactoring the scales repo. 
+**Thoughts** I started a course today that I forgot I had bought on Udemy in 2020 **eyeroll**. 
+  
+**Link(s) to work**
+1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics) 2. [Scales Repo] (https://github.com/TandiweP/scales) 
