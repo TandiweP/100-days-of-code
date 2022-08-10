@@ -154,3 +154,11 @@
   
 **Link(s) to work**
 1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics) 2. [Scales Repo] (https://github.com/TandiweP/scales) 
+  
+
+### Day 23: 8/9 Tuesday
+**Today's Progress**: Worked on Scales repo, but didn't like the changes and retreated.  Spent time on MDN and Udemy. Practiced navigating the command line. 
+**Thoughts** I'm mapping it out on paper and deciding how many seperate components I want it to have. 
+  
+**Link(s) to work**
+1. [Scales Repo] (https://github.com/TandiweP/scales) 
