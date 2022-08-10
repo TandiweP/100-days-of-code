@@ -153,7 +153,8 @@
 **Thoughts** I started a course today that I forgot I had bought on Udemy in 2020 **eyeroll**. 
   
 **Link(s) to work**
-1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics) 2. [Scales Repo] (https://github.com/TandiweP/scales) 
+1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics) 
+2. [Scales Repo] (https://github.com/TandiweP/scales) 
   
 
 ### Day 23: 8/9 Tuesday
