@@ -163,3 +163,7 @@
   
 **Link(s) to work**
 1. [Scales Repo] (https://github.com/TandiweP/scales) 
+  
+  
+### Day 24: 8/10 Wednesday 
+**Today**: Made new branch "rescale" of scales repo and combined two components into one. I also did a lot of css on it.  The form is working well, but I need to refactor my onSubmit function becuase I'm not even getting a console response.  **debugging time**
