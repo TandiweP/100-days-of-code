@@ -166,4 +166,8 @@
   
   
 ### Day 24: 8/10 Wednesday 
-**Today**: Made new branch "rescale" of scales repo and combined two components into one. I also did a lot of css on it.  The form is working well, but I need to refactor my onSubmit function becuase I'm not even getting a console response.  **debugging time**
+**Today**: Made new branch "rescale" of scales repo and combined two components into one. I also did a lot of css on it.  The form is working well, but I need to refactor my onSubmit function becuase I'm not even getting a console response:  **debugging time**!
+  
+ ### Day 25: 8/11 Thursday 
+**Today**: Using "parseFloat" and "e.preventDefault" (after quite a lot of Chrome DevTools debugging and Stack Overflow searching) to get my gross, tare, net, and tons calculations to work on submit of the form. 
+**Thoughts** I want to get them displaying on the page tomorrow.  I also want to set the calculation function to round it to two decimals (so I don't have eight digit responses in the tons hook). Later on, I want to set up a back end that will push results to data so it is recorded with date and time stamps for admin use.  
