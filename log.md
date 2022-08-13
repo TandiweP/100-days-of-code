@@ -171,3 +171,7 @@
  ### Day 25: 8/11 Thursday 
 **Today**: Using "parseFloat" and "e.preventDefault" (after quite a lot of Chrome DevTools debugging and Stack Overflow searching) to get my gross, tare, net, and tons calculations to work on submit of the form. 
 **Thoughts** I want to get them displaying on the page tomorrow.  I also want to set the calculation function to round it to two decimals (so I don't have eight digit responses in the tons hook). Later on, I want to set up a back end that will push results to data so it is recorded with date and time stamps for admin use.  
+
+  
+  ### Day 26: 8/12 Friday 
+**Today**: Added new object to the Animal Sounds repo, reviewed arrays and sub-arrays on freecodecamp, added a new data set to Horror Films Repo, messed up Scales repo and had to retreat. 
