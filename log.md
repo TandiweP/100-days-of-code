@@ -177,7 +177,8 @@
 **Today**: Added new object to the Animal Sounds repo, reviewed arrays and sub-arrays on freecodecamp, added a new data set to Horror Films Repo, messed up Scales repo and had to retreat. 
 
 ### Day 27: 8/13 Saturday
-**Today's Progress**: Continued work on scales repo and did more JS LinkedIn Course. Experimented with classList modifications. 
+**Today's Progress**: Continued work on scales repo and did more JS LinkedIn Course. Experimented with classList modifications.
+  
 **Thoughts** There are many ways to manipulate the DOM to show the results of the scale calculations, but I need to commit to one instead of building it, deleting it, then rebuilding it a different way, for eternity. 
   
 **Link(s) to work**
