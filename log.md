@@ -184,3 +184,7 @@
 **Link(s) to work**
 1. [Scales Repo] (https://github.com/TandiweP/scales) 
 2. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
+
+  
+  ### Day 28: 8/14 Sunday 
+**Today**: Read up on JQUERY and DOM manipulation.  
