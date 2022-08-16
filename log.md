@@ -170,6 +170,7 @@
   
  ### Day 25: 8/11 Thursday 
 **Today**: Using "parseFloat" and "e.preventDefault" (after quite a lot of Chrome DevTools debugging and Stack Overflow searching) to get my gross, tare, net, and tons calculations to work on submit of the form. 
+  
 **Thoughts** I want to get them displaying on the page tomorrow.  I also want to set the calculation function to round it to two decimals (so I don't have eight digit responses in the tons hook). Later on, I want to set up a back end that will push results to data so it is recorded with date and time stamps for admin use.  
 
   
@@ -188,3 +189,11 @@
   
   ### Day 28: 8/14 Sunday 
 **Today**: Read up on JQUERY and DOM manipulation.  
+  
+  ### Day 29: 8/15 Monday
+**Today's Progress**: Added a table to scale repo which will render calculation results to the DOM.  I'm researching what render method to use. 
+  
+**Thoughts** I think I will add a local data file to push data to so it can be stored and recalled.  I could pass these data props to the table function and render it that way.   
+  
+**Link(s) to work**
+1. [Scales Repo] (https://github.com/TandiweP/scales) 
