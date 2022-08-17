@@ -154,7 +154,7 @@
   
 **Link(s) to work**
 1. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics) 
-2. [Scales Repo] (https://github.com/TandiweP/scales) 
+2. [Scales Repo](https://github.com/TandiweP/scales) 
   
 
 ### Day 23: 8/9 Tuesday
@@ -162,7 +162,7 @@
 **Thoughts** I'm mapping it out on paper and deciding how many seperate components I want it to have. 
   
 **Link(s) to work**
-1. [Scales Repo] (https://github.com/TandiweP/scales) 
+1. [Scales Repo](https://github.com/TandiweP/scales) 
   
   
 ### Day 24: 8/10 Wednesday 
@@ -183,7 +183,7 @@
 **Thoughts** There are many ways to manipulate the DOM to show the results of the scale calculations, but I need to commit to one instead of building it, deleting it, then rebuilding it a different way, for eternity. 
   
 **Link(s) to work**
-1. [Scales Repo] (https://github.com/TandiweP/scales) 
+1. [Scales Repo](https://github.com/TandiweP/scales) 
 2. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript-language-basics)
 
   
@@ -196,7 +196,7 @@
 **Thoughts** I think I will add a local data file to push data to so it can be stored and recalled.  I could pass these data props to the table function and render it that way.   
   
 **Link(s) to work**
-1. [Scales Repo] (https://github.com/TandiweP/scales) 
+1. [Scales Repo](https://github.com/TandiweP/scales) 
 
   
 ### Day 30: 8/16 Tuesday
@@ -205,7 +205,7 @@
 **Thoughts** I will start making more mini repos to practice basic concepts-its fun to have mini projects.   
   
 **Link(s) to work**
-1. [Ice Cream Menu] (https://github.com/TandiweP/IceCreamMenu) 
+1. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
   
 ### Day 31: 8/17 Tuesday
 **Today's Progress**: Reviewed classSelector methods, practiced using them in the console of my scale repo, and completed another section in my JS Udemy Course. 
@@ -213,6 +213,6 @@
 **Thoughts** I am skimming through the Udumy Course because I had purchased it two years ago and didn't use it (??????), and have since learned the concepts. A review is a good idea, though. 
   
 **Link(s) to work**
-1. [Scales Repo] (https://github.com/TandiweP/scales) 
+1. [Scales Repo](https://github.com/TandiweP/scales) 
 2. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript)
 3. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
