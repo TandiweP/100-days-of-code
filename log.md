@@ -168,13 +168,13 @@
 ### Day 24: 8/10 Wednesday 
 **Today**: Made new branch "rescale" of scales repo and combined two components into one. I also did a lot of css on it.  The form is working well, but I need to refactor my onSubmit function becuase I'm not even getting a console response:  **debugging time**!
   
- ### Day 25: 8/11 Thursday 
+### Day 25: 8/11 Thursday 
 **Today**: Using "parseFloat" and "e.preventDefault" (after quite a lot of Chrome DevTools debugging and Stack Overflow searching) to get my gross, tare, net, and tons calculations to work on submit of the form. 
   
 **Thoughts** I want to get them displaying on the page tomorrow.  I also want to set the calculation function to round it to two decimals (so I don't have eight digit responses in the tons hook). Later on, I want to set up a back end that will push results to data so it is recorded with date and time stamps for admin use.  
 
   
-  ### Day 26: 8/12 Friday 
+### Day 26: 8/12 Friday 
 **Today**: Added new object to the Animal Sounds repo, reviewed arrays and sub-arrays on freecodecamp, added a new data set to Horror Films Repo, messed up Scales repo and had to retreat. 
 
 ### Day 27: 8/13 Saturday
@@ -199,7 +199,7 @@
 1. [Scales Repo] (https://github.com/TandiweP/scales) 
 
   
-    ### Day 30: 8/16 Tuesday
+### Day 30: 8/16 Tuesday
 **Today's Progress**: Studied conditional functions and initialized a new repo which will allow users to select ice cream flavors, and availability will depend on a if/else statement. 
   
 **Thoughts** I will start making more mini repos to practice basic concepts-its fun to have mini projects.   
@@ -207,5 +207,12 @@
 **Link(s) to work**
 1. [Ice Cream Menu] (https://github.com/TandiweP/IceCreamMenu) 
   
+### Day 31: 8/17 Tuesday
+**Today's Progress**: Reviewed classSelector methods, practiced using them in the console of my scale repo, and completed another section in my JS Udemy Course. 
+
+**Thoughts** I am skimming through the Udumy Course because I had purchased it two years ago and didn't use it (??????), and have since learned the concepts. A review is a good idea, though. 
   
-  
+**Link(s) to work**
+1. [Scales Repo] (https://github.com/TandiweP/scales) 
+2. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript)
+3. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
