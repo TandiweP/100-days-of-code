@@ -197,3 +197,15 @@
   
 **Link(s) to work**
 1. [Scales Repo] (https://github.com/TandiweP/scales) 
+
+  
+    ### Day 30: 8/16 Tuesday
+**Today's Progress**: Studied conditional functions and initialized a new repo which will allow users to select ice cream flavors, and availability will depend on a if/else statement. 
+  
+**Thoughts** I will start making more mini repos to practice basic concepts-its fun to have mini projects.   
+  
+**Link(s) to work**
+1. [Ice Cream Menu] (https://github.com/TandiweP/IceCreamMenu) 
+  
+  
+  
