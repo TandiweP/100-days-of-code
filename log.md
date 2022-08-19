@@ -207,7 +207,7 @@
 **Link(s) to work**
 1. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
   
-### Day 31: 8/17 Tuesday
+### Day 31: 8/17 Wednesday
 **Today's Progress**: Reviewed classSelector methods, practiced using them in the console of my scale repo, and completed another section in my JS Udemy Course. 
 
 **Thoughts** I am skimming through the Udumy Course because I had purchased it two years ago and didn't use it (??????), and have since learned the concepts. A review is a good idea, though. 
@@ -216,3 +216,12 @@
 1. [Scales Repo](https://github.com/TandiweP/scales) 
 2. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript)
 3. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+
+### Day 32: 8/18 Thursday
+**Today's Progress**: LinkedIn JS course, added table component to Scales repo.  It shows the table but is not rendering the data...
+
+**Thoughts** I think I should push the calculation to a json data file, then pull that in to the table file.  I want it to be accessible data anyway, and this will help. 
+  
+**Link(s) to work**
+1. [Scales Repo](https://github.com/TandiweP/scales) 
+2. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript)
