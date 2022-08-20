@@ -225,3 +225,6 @@
 **Link(s) to work**
 1. [Scales Repo](https://github.com/TandiweP/scales) 
 2. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript)
+
+### Day 33: 8/19 Friday
+**Today's Progress**: I completed the first module for Azure training and did a lot of Microsoft 365 setting up/modifying for Porter Truck Repair. I also worked on the Ice Cream Menu css for fun and listened to an episode about the advantages of using Vanilla JS over frameworks. 
