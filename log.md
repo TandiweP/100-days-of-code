@@ -228,3 +228,7 @@
 
 ### Day 33: 8/19 Friday
 **Today's Progress**: I completed the first module for Azure training and did a lot of Microsoft 365 setting up/modifying for Porter Truck Repair. I also worked on the Ice Cream Menu css for fun and listened to an episode about the advantages of using Vanilla JS over frameworks. 
+  
+  
+### Day 34: 8/20 Saturday
+**Today's Progress**: Spent 9hrs doing Microsoft Admin things for Porter Truck Repair.  Most of it was researching and implementing cloud integrations and literally set up a new desktop so it would be AS SIMPLE TO USE AS POSSIBLE. I enjoyed this work, but only had a bit of time to do "fun" coding tonight. 
