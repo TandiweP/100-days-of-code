@@ -1,4 +1,4 @@
-### Tweet Ideas
+## Tweet Ideas
 
 
   1. Semantic HTML makes web development and navigation a LOT easier! Yes-I confess to the sin of having used WAAY too many div's in my code!
