@@ -244,3 +244,12 @@
   
 **Link(s) to work**
 1. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
+
+
+### Day 37: 8/23 Tuesday
+**Today's Progress**: Udemy course review of html semantics.  Went through various websites inspecting elements and seeing wether they have Semantic Elements or are just piles of divs. 
+  
+**Thoughts** I actually did not know about entity codes, which is a bit embarassing! When I've put the copyright symbol, etc. in my html, I've made it SOO difficult for myself by actually using svg's and jpegs! It was so simple all along lol. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
