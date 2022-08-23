@@ -232,3 +232,15 @@
   
 ### Day 34: 8/20 Saturday
 **Today's Progress**: Spent 9hrs doing Microsoft Admin things for Porter Truck Repair.  Most of it was researching and implementing cloud integrations and literally set up a new desktop so it would be AS SIMPLE TO USE AS POSSIBLE. I enjoyed this work, but only had a bit of time to do "fun" coding tonight. 
+
+  
+  ### Day 35: 8/21 Sunday 
+**Today**: Read up on Algorithm structure and approach.  
+  
+  ### Day 36: 8/22 Monday
+**Today's Progress**: Traveled a lot so I listened to three different podcast episodes on algorithms and technical interviews. When I got home, I did some reviewing of block and inline elements on my Udemy course. I then worked on onClick functions for my Ice Cream repo buttons. 
+  
+**Thoughts** I can sure get sucked in to css haha. Spent way too much time experimenting with button alignment, borders, margin, etc.    
+  
+**Link(s) to work**
+1. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
