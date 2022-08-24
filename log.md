@@ -253,3 +253,14 @@
     
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+  
+### Day 38: 8/24 Wednesday
+**Today's Progress**: A little Udemy and LinkedIn course, which spurred big ideas that led me to change the table format in the Scales repo and test manually appending articles (with Animal Objects) in "Animals" repo. 
+  
+**Thoughts** Having a great time but the ADHD brain is FLEXING today. If I was Carrie, this house would be screwed lol.  
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Scales Repo](https://github.com/TandiweP/scales) 
+3. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript)
+4. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds) 
