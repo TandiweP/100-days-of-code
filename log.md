@@ -264,3 +264,12 @@
 2. [Scales Repo](https://github.com/TandiweP/scales) 
 3. [JavaScript Essential Training](https://www.linkedin.com/learning/javascript-essential-training/javascript)
 4. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds) 
+
+### Day 39: 8/25 Thursday
+**Today's Progress**: Studied proper table html syntax and organization on the Udemy course. I practieced by adding a table with flavor, price, and stock status to my ice cream repo.  
+  
+**Thoughts**  I'm itching to css the table, but I believe I make things harder for myself when I start formatting things before they are actually completely structured (I need to do Colspan and Rowspan). Plain html pains me, but I need to get used to it so that I can put of styling until it's done. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
