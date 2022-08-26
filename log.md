@@ -281,4 +281,4 @@
   
 **Link(s) to work**
 1. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
-w. [CodeWars Cockroach Speed Kata](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/train/javascript)
+2. [CodeWars Cockroach Speed Kata](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/train/javascript)
