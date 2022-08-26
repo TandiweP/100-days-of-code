@@ -273,3 +273,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
 2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
+  
+### Day 40: 8/26 Friday
+**Today's Progress**: After doing a Code Wars kata which convertered speed from kilometoers per hour to centimeters per second, I created a practice repo which converts Cheetah speed from mph to kph. It has a bug which is making the output always 0, so I will come back to it this afternoon. 
+
+**Thoughts**  Making lot's of mini projects for practice is really fun - today I focused on using semantic html and experimented with Emmet VSCode shortcuts as I created the converter. 
+  
+**Link(s) to work**
+1. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
+w. [CodeWars Cockroach Speed Kata](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/train/javascript)
