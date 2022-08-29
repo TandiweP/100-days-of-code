@@ -288,3 +288,12 @@
   
 ### Day 42: 8/28 Sunday 
 **Today's Progress**: Reviewed several website formats and brainstormed. 
+
+### Day 43: 8/29 Monday
+**Today's Progress**: Completed Table section of the Udemy course.  Added to and stylized the Ice Cream Price table in my Ice Cream Menu repo.  
+  
+**Thoughts**  My table is in an html file for simplicity, but I think I will make it a JS object by moving into into a .js file and assigning it a variable and assigning that to the DOM.  
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
