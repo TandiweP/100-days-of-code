@@ -282,3 +282,9 @@
 **Link(s) to work**
 1. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
 2. [CodeWars Cockroach Speed Kata](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/train/javascript)
+
+### Day 41: 8/27 Saturday
+**Today's Progress**: Very important personal day, so I did not do much. I did listen to a couple of Code Newbie podcasts and brainstorm. 
+  
+### Day 42: 8/28 Sunday 
+**Today's Progress**: Reviewed several website formats and brainstormed. 
