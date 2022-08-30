@@ -297,3 +297,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
 2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
+  
+### Day 44: 8/30 Tuesday
+**Today's Progress**: Started Form section of the Udemy course.  Added a form that receives input of name and flavor texts as a method of users submitting suggestions for new flavors. 
+  
+**Thoughts**  I had a lot of fun making this form. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
