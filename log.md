@@ -306,3 +306,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
 2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu) 
+  
+### Day 45: 8/31 Wednesday
+**Today's Progress**: I had a really bad flare up of concussion symptoms today, so I wasn't able to code much.  The coding I did was to add hover effects to links and buttons in the Ice Cream Repo. I also listened to my coding audiobook on the early morning hike that triggered my flare up of vertigo, headache, eye pain, and brain fog. Yay! 
+  
+**Thoughts**  The hike seemed like a good idea at the time.  I forgot it's only been three weeks since the concussion. Silly me. 
+    
+**Link(s) to work**
+1. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
+ 
