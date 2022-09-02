@@ -314,4 +314,14 @@
     
 **Link(s) to work**
 1. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
- 
+
+### Day 46: 9/1 Thursday
+**Today's Progress**: Had a lot of fun adding new input to my icecream flavor form as I got ideas watching Udemy.  I also made changes to the Scales repo because I randomly realized a couple of bug solutions. 
+  
+**Thoughts**  Good afternoon coding.  It's weird to be holding off on the JS for the most part, but reviewing html and css is doing me a lot of good. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
+3. [Scales Repo](https://github.com/TandiweP/scales) 
+  
