@@ -325,3 +325,13 @@
 2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
 3. [Scales Repo](https://github.com/TandiweP/scales) 
   
+### Day 47: 9/2 Friday
+**Today's Progress**: Added validation to my ice cream request form, then added a new html file with a form for ordering.  I have it mostly set up - just need to refine the radio inputs.  Also added validation to scales repo form. 
+  
+**Thoughts**  Having fun with my ice cream repo. Seeing the pro's and con's of having forms as js objects vs html files.  
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
+3. [Scales Repo](https://github.com/TandiweP/scales) 
+  
