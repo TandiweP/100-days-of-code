@@ -335,3 +335,14 @@
 2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
 3. [Scales Repo](https://github.com/TandiweP/scales) 
   
+### Day 48: 9/3 Saturday
+**Today's Progress**: I finished the HTML section of the Udemy bootcamp. It has been a GREAT review and filled in a few holes in my training. My ice cream repo is really fun so far and I look forward to adding js to it.  I also started a "Book Store" js challenge which is OOP and is provided with verbal instructions, which is more realistic for interview situations. 
+  
+**Thoughts**  I had trouble with my radio inputs until I realized I had different names set to each one!
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
+3. [BookStore Repo](https://github.com/TandiweP/BookStore)
+4. [JS Code Challenges](https://www.linkedin.com/learning/javascript-code-challenges)
+  
