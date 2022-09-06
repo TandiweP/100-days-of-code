@@ -350,7 +350,7 @@
 **Today's Progress**: Focused on FamilySearch work and organizing my schedule for the upcoming week. 
 
 ### Day 50: 9/5 Monday
-**Today's Progress**: Conitued Udemy CSS section and did a lot of work modifying radio inputs, nav links, and buttons in the ice cream repo.  
+**Today's Progress**: Continued Udemy CSS section and did a lot of work modifying radio inputs, nav links, and buttons in the ice cream repo.  
   
 **Thoughts**  I could style for DAYS.
     
@@ -358,4 +358,11 @@
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
 2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
 
+### Day 51: 9/6 Tuesday
+**Today's Progress**: Udemy CSS attributes, selectors, ids, classes review.  Changed buttons in Ice Cream Repo using css selection methods I don't typically use. 
   
+**Thoughts**  Some selection methods are really irksome. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
