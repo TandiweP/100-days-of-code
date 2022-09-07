@@ -366,3 +366,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
 2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
+
+### Day 52: 9/7 Wednesday
+**Today's Progress**: Udemy CSS accessibility syntax and use.  Practiced it on the Cheetah Speed Repo.  I also blocked out sections of the page, flexboxing and adjusting. More to do there.  
+  
+**Thoughts**  ::
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
