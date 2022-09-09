@@ -375,3 +375,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
 2. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
+  
+### Day 53: 9/8 Thursday
+**Today's Progress**: Udemy CSS pseudo classes. Spent over an hour practicing them on the Cheetah repo and styling borders for various elements. 
+  
+**Thoughts**  Long day, but glad I got to code at the end of it. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
