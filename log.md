@@ -384,3 +384,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
 2. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
+  
+### Day 54: 9/9 Friday
+**Today's Progress**: Finished Udemy CSS Selectors section and started the Box Model section.  I updated my MongoDB Bank Database and realized upon pulling up the bank itself that the link in my portfolio to it is actually linking to the older, unconnected, crappier one. So I updated that link and logged in to make sure that my database reflected changes.  Happy camper. 
+  
+**Thoughts**  I'm embarassed that my portfolio had a lame link for the last few months! BLUSH BLUSH BLUSH
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Portfolio](https://tandiwep.github.io/)
