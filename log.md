@@ -393,3 +393,11 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
 2. [Portfolio](https://tandiwep.github.io/)
+
+### Day 55: 9/10 Saturday
+**Today's Progress**: I got my js converter working in the cheetah repo.  The key problem was that was was not grabbing the value of the input when I used querySelectorAll.  I also started using a color pallete and playing with shapes and sizes.  
+  
+**Thoughts**  Another long day, and although I'm not a night owl, I sure seemed to have some brain juice tonight!
+    
+**Link(s) to work**
+1. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
