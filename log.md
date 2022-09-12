@@ -401,3 +401,6 @@
     
 **Link(s) to work**
 1. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
+  
+### Day 56: 9/11 Sunday
+**Today's Progress**: Read up on objects and methods-got some ideas for my OOP Animal Sounds repo. I also started digging into the canvas. 
