@@ -404,3 +404,13 @@
   
 ### Day 56: 9/11 Sunday
 **Today's Progress**: Read up on objects and methods-got some ideas for my OOP Animal Sounds repo. I also started digging into the canvas. 
+  
+### Day 57: 9/12 Monday
+**Today's Progress**: More Udemy box-model.  I modified some of the Cheetah repo, but spend at least two hours getting my Animal Sounds repo working (re-did some of the object constructs, re-did cards,...).
+  
+**Thoughts**  My Animal Sounds repo is going to be cute.  
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
+2. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
+3. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)
