@@ -414,3 +414,12 @@
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 
 2. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed)
 3. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)
+  
+### Day 58: 9/13 Tuesday
+**Today's Progress**: Completed Udemy CSS box model.  Used new knowledge about inline vs block vs inline-block to restyle some elements in the Animal Sounds repo. 
+  
+**Thoughts**  Silly that I didn't realize that I could change inline to block, etc. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)
