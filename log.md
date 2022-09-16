@@ -423,3 +423,21 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Animal Sounds Repo](https://github.com/TandiweP/AnimalSounds)
+  
+### Day 59: 9/14 Wednesday
+**Today's Progress**: Udemy CSS opacity/alpha and position. Experimented with a couple of repos.  As part of a joke, I started a magazine landing page. 
+  
+**Thoughts**  I use the opacity property frequently, but did not actually know that alpha was a thing (or forgot it). 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Gag Magazine Repo](https://github.com/TandiweP/MAN)
+  
+### Day 60: 9/15 Thursday
+**Today's Progress**: Had a meeting go WAAYY longer than I thought tonight, so I only got some practice in.  I think it totalled to about an hour.  It was mostly positioning things and doing other styles on my gag magazine repo.  
+  
+**Thoughts**  Chose to stay up and do this after a long day-hope these late nights pay off :). 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Gag Magazine Repo](https://github.com/TandiweP/MAN)
