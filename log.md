@@ -441,3 +441,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Gag Magazine Repo](https://github.com/TandiweP/MAN)
+  
+### Day 61: 9/16 Friday
+**Today's Progress**: A bit frustrating today-work went WAAAY over and destroyed my brain so just looking at a screen makes my eyeballs want to ditch their cute little cupcake holders.  I tried doing Udemy but my brain is done.  Ended up doing just a bit of css.  
+  
+**Thoughts**  Glad I at least listened to coding stuff today :\  
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Animal Sounds Repo](https://github.com/TandiweP/Animal)
