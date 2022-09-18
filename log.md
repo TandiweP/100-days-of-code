@@ -450,3 +450,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Animal Sounds Repo](https://github.com/TandiweP/Animal)
+  
+### Day 62: 9/17 Saturday
+**Today's Progress**: Enjoyed starting CSS Animations on Udemy.  I added a new page to the Ice Cream repo in which I worked on having a circle fall onto a cone (like an ice cream cone, yo). The dropping circle is easy-its getting the cone to be the right shape and not go down with the circle that's a bit tough. I changed margins on hover and that helps a bit, but there is still space.  I'll have to inspect other box model properties there-maybe there's a padding set that I don't realize. 
+  
+**Thoughts**  You know I love CSS and now it MOVES! But how do I keep the cone beneath from moving with it..?  
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
