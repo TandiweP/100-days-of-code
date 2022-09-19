@@ -459,3 +459,17 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
+
+
+### Day 63: 9/18 Sunday 
+**Today**: Added experience to Parker Dewey and applied for jobs.   
+
+### Day 64: 9/19 Monday
+**Today's Progress**: Finished Udemy CSS Transition/transformation section.  Did a code-along to chanage buttons in my animal repo and also went into the ice cream repo and fixed the cone so that it was the right size using transform(scale).  
+  
+**Thoughts**  I should have finished the video on Saturday instead of spending over an hour messing with the cone lol cry.  
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
+3. [Animal Sounds Repo](https://github.com/TandiweP/Animal)
