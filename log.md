@@ -473,3 +473,11 @@
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Ice Cream Menu](https://github.com/TandiweP/IceCreamMenu)
 3. [Animal Sounds Repo](https://github.com/TandiweP/Animal)
+
+### Day 65: 9/20 Tuesday
+**Today's Progress**: General on-paper draft of Porter Truck Repair website.  Got the skeleton up, though it's missing some limbs lol. 
+  
+**Thoughts** My practice repos helped me get this up fast.   
+    
+**Link(s) to work**
+1. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
