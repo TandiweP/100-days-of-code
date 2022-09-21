@@ -481,3 +481,12 @@
     
 **Link(s) to work**
 1. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
+
+### Day 66: 9/21 Wednesday
+**Today's Progress**: Udemy background image. I was experienced with it but picked up a couple of very useful tips.  Set a photo I'd taken of a truck engine a couple years ago as the background image of the Porter Truck Repair website. 
+  
+**Thoughts** Too bad I can't mess with opacity of the image without messing with the text, too. I will either get fancy with selectors/pseudo elements or just do opacity adjustments to the image itself in photoshop.   
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
