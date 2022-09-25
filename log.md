@@ -490,3 +490,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
+  
+### Day 67: 9/22 Thursday
+**FanX Trip Day 1 (no laptop)**:  CSS code along focused on image spacing and white space issues. Got Github on iPad. Algorithm review.
+  
+### Day 68: 9/23 Friday
+**FanX Trip Day 2 (no laptop)**:  Udemy Flexbox Intro. Reviewed Flexbox Documentation. Scouted out websites of panelists/artists at FanX.
+  
+### Day 69: 9/24 Saturday
+**FanX Trip Day 3 (laptop...late at night)**:  Reviewed the Spread and Rest operators while I was in a panel. Tonight I did some work on the GCPorter Website (a bit of CSS).
