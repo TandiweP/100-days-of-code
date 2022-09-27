@@ -499,3 +499,15 @@
   
 ### Day 69: 9/24 Saturday
 **FanX Trip Day 3 (laptop...late at night)**:  Reviewed the Spread and Rest operators while I was in a panel. Tonight I did some work on the GCPorter Website (a bit of CSS).
+
+### Day 70: 9/25 Sunday
+**Today's Progress**:  Family Search, looked at websites with specific styles. 
+  
+### Day 71: 9/26 Monday
+**Today's Progress**: Started Udemy Flexbox and followed along with the contact page of the Porter Truck Repair Repo. I had reviewed flexbox while standing in line at Dollar Tree for twenty minutes, so that helped. I use it a lot but I forget main/cross axis rules and orientations. I also fixed css on the arrow links so they were no longer invisible haha. 
+  
+**Thoughts** You really can get things done while standing in line.     
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
