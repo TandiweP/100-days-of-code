@@ -511,3 +511,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
+  
+### Day 72: 9/27 Tuesday
+**Today's Progress**: Continued Udemy flexbox and learned that I had been messing myself up all along with how I used the "flex-items" property.  I used my new understanding to fix my Animal Sounds cards. I also added a Navbar. 
+  
+**Thoughts** I should just keep a flexbox ref open all the time.  Tattoo on my forearm???   
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Animal Sounds Repo](https://github.com/TandiweP/Animal))
