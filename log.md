@@ -519,4 +519,13 @@
     
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Animal Sounds Repo](https://github.com/TandiweP/Animal)
+
+### Day 73: 9/28 Wednesday
+**Today's Progress**: Finished Udemy flexbox section. Added flex grow properties to Animal Sounds cards. 
+  
+**Thoughts** I understand the shorthand, but for now I prefer writing the properties out individually. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Animal Sounds Repo](https://github.com/TandiweP/Animal))
