@@ -529,3 +529,11 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Animal Sounds Repo](https://github.com/TandiweP/Animal))
+
+### Day 74: 9/29 Thurssday
+**Today's Progress**: Coudn't focus on Udemy (long stressful work day), so I decided to have fun trying out styling techniques I've studied recently and restyled the gag magazine repo I made. 
+  
+**Thoughts** I think I will make the button to subscribe be a link to webMd's Narcissist diagnosis. 
+    
+**Link(s) to work**
+1. [Gag Magazine Repo](https://github.com/TandiweP/MAN)
