@@ -537,3 +537,11 @@
     
 **Link(s) to work**
 1. [Gag Magazine Repo](https://github.com/TandiweP/MAN)
+
+### Day 75: 9/30 Friday
+**Today's Progress**: Because I was on the road 10+ hours today with work, I am having a very difficult time focusing on and takin in instruction.  I hope when I get back to my regular schedule, I'll be able to move forward.  Tonight I settled on added text shadow and other styles to the Porter Truck Repair repo. 
+  
+**Thoughts** Getting anxious to write some JS-it's been a minute (focusing on CSS lately).      
+    
+**Link(s) to work**
+1. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
