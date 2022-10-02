@@ -545,3 +545,12 @@
     
 **Link(s) to work**
 1. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
+
+### Day 76: 10/1 Saturday
+**Today's Progress**: Started Udemy media queries.  Spent time re-doing flexbox in the Animal Sounds Repo.  
+  
+**Thoughts** I need to di deeper into the media query options. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Animal Sounds Repo](https://github.com/TandiweP/Animal))
