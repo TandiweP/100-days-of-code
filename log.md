@@ -567,3 +567,12 @@
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Animal Sounds Repo](https://github.com/TandiweP/Animal)
 3. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
+
+### Day 79: 10/4 Tuesday
+**Today's Progress**: Continued Udemy code along (pricing panel that I'm modifying for Porter Truck Repair Service Calls).  I transferred the css to it's own sheet when I was introduced to CSS Reset, which is a very new and beautiful thing to me. I've seen it in other people's code, but always thougth it was something complicated that went over my head. WRONG! 
+  
+**Thoughts** CSS reset, where hast thou been all my life? 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
