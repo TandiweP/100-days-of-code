@@ -553,4 +553,17 @@
     
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
-2. [Animal Sounds Repo](https://github.com/TandiweP/Animal))
+2. [Animal Sounds Repo](https://github.com/TandiweP/Animal)
+
+### Day 77: 10/2 Sunday
+**Today's Progress**:  Listsened to Code Newbie. 
+  
+### Day 78: 10/3 Monday
+**Today's Progress**: Did media queries on Animal Sounds repo (successfully).  The Udemy course now has a code-along pricing panel, so I added a service calls pricing panel to my Porter Truck Repair site.  I have started it and added custom icons.  Looking forward to doing more.   
+  
+**Thoughts** I want to go back and fix responsive issues with other sites-especially those on my portfolio. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Animal Sounds Repo](https://github.com/TandiweP/Animal)
+3. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
