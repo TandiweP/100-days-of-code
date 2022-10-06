@@ -576,3 +576,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
+
+### Day 80: 10/5 Wednesday
+**Today's Progress**: Started Udemy Bootstrap section.  Created a Podcasts repo to have a new project to work on that has both a css sheet and Bootstrap. 
+  
+**Thoughts** It will be fun to go over Bootstrap again. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts)  
