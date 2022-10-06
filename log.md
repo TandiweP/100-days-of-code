@@ -585,3 +585,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts)  
+  
+### Day 81: 10/6 Thursday
+**Today's Progress**: Udemy Bootstrap containers and buttons.  Coded along with the podcasts repo. 
+  
+**Thoughts** I thought I knew Bootstrap really well, but I completely missed the purpose of containers. My life would have been SO MUCH EASIER if I'd used them in my Capstone instead of regular divs. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts)  
