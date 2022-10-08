@@ -594,3 +594,13 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts)  
+
+  
+### Day 82: 10/7 Friday
+**Today's Progress**: Finished Udemy Bootstrap basic section (tonight made a js deactivatable alert and did a practice section). I also listened to about an hour of "The Pragmatic Programmer" on the drive.  Understood about 50-60% of it. I did like the idea to make your code crash early so it doesn't crash it later and you have to dive back to figure things out. I also want to learn how to "decouple" functions because that is definitely an issue with me. 
+  
+**Thoughts** Proud of myself for coding after a looong day.  Glad I finished a Bootstrap Udemy section. Here comes the grid!
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
