@@ -613,3 +613,11 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
+  
+### Day 84: 10/9 Sunday
+**Today's Progress**: Contacted a local business via Messenger about making a free website. It's a two woman business which decorates porches and provides tiers of service. St. G News had done a piece on them. Surprised they immediately responded with enthusiasm.  A little freaked about that. Will schedule a meeting? Also added Bootstrap Navbar to Podcasts home. 
+  
+**Thoughts** You bet I also listened to "The Pragmatic Programmer" on my am hike :).
+    
+**Link(s) to work**
+1. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
