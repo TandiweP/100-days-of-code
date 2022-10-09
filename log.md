@@ -604,3 +604,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
+  
+### Day 83: 10/8 Saturday
+**Today's Progress**: Started Bootstrap Grid System on Udemy.  Added another html page for the horror genre to my Podcasts repo which has rows and columns displaying info about specific episodes.  
+  
+**Thoughts** You bet I also listened to "The Pragmatic Programmer" on my am hike :).
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
