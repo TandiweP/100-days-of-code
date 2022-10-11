@@ -621,3 +621,12 @@
     
 **Link(s) to work**
 1. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
+  
+### Day 85: 10/10 Monday
+**Today's Progress**: Udemy Responsive Grid on Udemy. I mainly focused my practice on making three images responsive.  Unsplash is such a gem.  
+  
+**Thoughts** Such a crazy day that I forgot all about responding to the company's interest!
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
