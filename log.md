@@ -630,3 +630,13 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
+  
+### Day 86: 10/11 Tuesday
+**Today's Progress**: In anticipation of an insane day, I coded in the morning.  I only did 30 min and it involved revising some things on the MAN repo (which needs a LOT of attention, but it was a joke at the time of conception so I may just delete it). I also listend to a coding podcast on my long drive.  
+  
+**Thoughts** Proud of myself for coding BEFORE my big day started. 
+    
+**Link(s) to work**
+1. [MAN](https://github.com/TandiweP/MAN) 
+  
+  
