@@ -623,7 +623,7 @@
 1. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
   
 ### Day 85: 10/10 Monday
-**Today's Progress**: Udemy Responsive Grid on Udemy. I mainly focused my practice on making three images responsive.  Unsplash is such a gem.  
+**Today's Progress**: Bootstrap Responsive Grid on Udemy. I mainly focused my practice on making three images responsive.  Unsplash is such a gem.  
   
 **Thoughts** Such a crazy day that I forgot all about responding to the company's interest!
     
@@ -639,4 +639,11 @@
 **Link(s) to work**
 1. [MAN](https://github.com/TandiweP/MAN) 
   
+### Day 87: 10/12 Wednesday
+**Today's Progress**: Bootstrap Grid Utilities on Udemy. Changed navbars and reviewed options for alignment.  Added a contact.html page in anticipation of doing Bootstrap Forms next.   
   
+**Thoughts** I need to review tying custom css to Bootstrap-how do I do it without messing everything up? I have used inline styling with this in the past, but I'd rather have it in the css file. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
