@@ -647,3 +647,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
+  
+### Day 88: 10/13 Thursday
+**Today's Progress**: Bootstrap Forms on Udemy. Spent some time doing my own for the Podcasts "contact" page.   
+  
+**Thoughts** I coded for about two hours after a very long day working. Proud of myself.  Also listened to Code Newbie Podcast.  
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
