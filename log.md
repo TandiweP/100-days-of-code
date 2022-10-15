@@ -656,3 +656,13 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
+  
+
+### Day 89: 10/14 Friday
+**Today's Progress**: Bootstrap Navbars on Udemy. Followed along with "Podcasts"   
+  
+**Thoughts** I listened to two episodes of "Compiler" today-it's a bit to get used to, but I think it will be beneficial. 
+    
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
