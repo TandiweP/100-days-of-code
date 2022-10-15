@@ -666,3 +666,12 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
+
+### Day 90: 10/15 Saturday
+**Today's Progress**: Finsished Bootstrap on Udemy! Which means I'm FINALLY to Javascript.   
+  
+**Thoughts** Considering doing the little code along project... 
+  
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts)
