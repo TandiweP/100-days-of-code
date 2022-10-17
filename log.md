@@ -675,3 +675,8 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts)
+
+### Day 91: 10/16 Sunday
+**Today's Progress**: Researched Bootstrap styling specifics. 
+  
+  
