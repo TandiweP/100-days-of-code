@@ -687,3 +687,14 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
+  
+### Day 93: 10/18 Tuesday
+**Today's Progress**: Udemy JS intro and everything numbers/Nan. Went over console.  Spent a bit of time on Scales css.     
+  
+**Thoughts** I'm excited to be to JS finally!
+  
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Scales Repo](https://github.com/TandiweP/scales)
+  
+  
