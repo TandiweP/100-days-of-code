@@ -679,4 +679,11 @@
 ### Day 91: 10/16 Sunday
 **Today's Progress**: Researched Bootstrap styling specifics. 
   
+### Day 92: 10/17 Monday
+**Today's Progress**: Went through Udemy practice project for ending the section. Used some techniques demonstrated to re-style things in the Podcasts repo. Watched the brief intro to JS.    
   
+**Thoughts** The Podcasts repo is so useless and ugly I may, in fact, delete it...
+  
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
