@@ -696,5 +696,13 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Scales Repo](https://github.com/TandiweP/scales)
+
+### Day 94: 10/19 Wednesday
+**Today's Progress**: Did complete Udemy JS variables section with a couple of quizes. Also did some corrections in the styling of the Porter Truck Repair repo.     
   
+**Thoughts** I'm going to practice syling daily to keep it going in my brain and to stay active with my repo's, but the main focus is JS review now. 
+  
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
   
