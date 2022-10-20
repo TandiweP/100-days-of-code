@@ -706,3 +706,11 @@
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
   
+### Day 95: 10/20 Thursday
+**Today's Progress**: Started Udemy JS strings section.  Practiced methods which do not take arguments. Also chained those methods. Started contact form in PTR repo.      
+  
+**Thoughts** It was a good refresher, especially on chaining methods. 
+  
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
