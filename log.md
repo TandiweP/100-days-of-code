@@ -719,7 +719,7 @@
 **Today's Progress**: Because of work, I was unable to get to my computer. I listened to about 1.5hrs worth of coding podcasts, and then used my coding brain/logic to repair my friend's electric scooter!
   
 ### Day 97: 10/22 Saturday
-**Today's Progress**: Udemy strings methods! Practiced in the console and did a quiz.  Did some styling on PTR repo.       
+**Today's Progress**: COMPLETED Udemy strings section (including methods)! Practiced in the console and did a quiz.  Did some styling on PTR repo.       
   
 **Thoughts** It was a good refresher, especially on chaining methods. 
   
