@@ -726,3 +726,15 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
+
+### Day 98: 10/23 Sunday
+**Today's Progress**: Reviewed Javascript books. 
+
+### Day 99: 10/24 Monday
+**Today's Progress**: Started JS Decision Making on Udemy.  This included booleans and comparison operators, which I am very comfortable with already.  I spent about an hour changing the css styling in PTR repo to Bootstrap. 
+  
+**Thoughts** I'm Bootstrapping this repo so I can practice and so that responsiveness and layout are simple and responsive.  
+  
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
