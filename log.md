@@ -738,3 +738,13 @@
 **Link(s) to work**
 1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
 2. [Porter Truck Repair Repo](https://github.com/TandiweP/PorterTruckRepair)
+  
+### Day 100: 10/25 Tuesday
+**Today's Progress**: Got an interview lined up today! Did some JS scripting with the Udemy course. Added onclick events to the Podcast and Cheetah Speed repos. . 
+  
+**Thoughts** I'm Bootstrapping this repo so I can practice and so that responsiveness and layout are simple and responsive.  
+  
+**Link(s) to work**
+1. [Udemy Course: Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)
+2. [Podcasts Repo](https://github.com/TandiweP/Podcasts) 
+3. [Cheetah Speed Repo](https://github.com/TandiweP/CheetahSpeed) 
