@@ -13,5 +13,5 @@ Edited PTR invoices website. Trying to uniform styles.
 Udemy JS #275: callback hell
 
 ### R2D2
-
+Edited PTR invoices website. Made plan for the month. 
 
